@@ -1,0 +1,84 @@
+﻿.ax_default {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#666666;
+  text-align:center;
+  line-height:normal;
+}
+._默认样式 {
+}
+.box_2 {
+}
+.ellipse {
+}
+._分类按纽 {
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:bold;
+  font-size:18px;
+  text-align:left;
+}
+._文本链接 {
+  color:#0000FF;
+}
+.text_field {
+  color:#000000;
+  text-align:left;
+}
+.label {
+  font-size:14px;
+  text-align:left;
+}
+.paragraph {
+  text-align:left;
+}
+.list_box {
+  color:#000000;
+  text-align:left;
+}
+._自由编辑 {
+  color:#333333;
+}
+.icon {
+}
+.image {
+}
+.primary_button {
+  color:#FFFFFF;
+}
+._图片 {
+}
+.heading_1 {
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:bold;
+  font-size:32px;
+  text-align:left;
+}
+.heading_2 {
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:bold;
+  font-size:24px;
+  text-align:left;
+}
+._鼠标按下文本链接时 {
+}
+.flow_shape {
+}
+.text_area {
+  color:#000000;
+  text-align:left;
+}
+.link_button {
+  color:#169BD5;
+}
+.line {
+}
+.box_3 {
+}
+.checkbox {
+  text-align:left;
+}
+.radio_button {
+  text-align:left;
+}
